@@ -1,0 +1,3 @@
+alipay:
+  name: prod
+  desc: 生产环境
